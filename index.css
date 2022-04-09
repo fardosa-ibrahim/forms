@@ -24,22 +24,22 @@ label{
     color: #08ffd1;  
     font-size: 17px;  
 }  
-#Uname{  
+#names{  
     width: 300px;  
     height: 30px;  
     border: none;  
     border-radius: 3px;  
-    padding-left: 8px;  
+    padding-left: 16px;  
 }  
 #Pass{  
     width: 300px;  
     height: 30px;  
     border: none;  
     border-radius: 3px;  
-    padding-left: 8px;  
+    padding-left: 16px;  
       
 }  
-#log{  
+#logging{  
     width: 300px;  
     height: 30px;  
     border: none;  
@@ -72,27 +72,30 @@ label{
 color: #08ffd1;  
 font-size: 17px;  
 }  
-#nme{  
+#names{  
 width: 300px;  
 height: 30px;  
 border: none;  
 border-radius: 3px;  
-padding-left: 8px;  
+margin-left: 50px;
+padding-left: 16px;
 }  
 #Pass{  
 width: 300px;  
 height: 30px;  
 border: none;  
 border-radius: 3px;  
-padding-left: 8px;  
+margin-left: 50px; 
+padding-left: 16px;
   
-}  
-#mail{
+} 
+
+#mailing{
     width: 300px;
     height: 30px;
     border: none;
     border-radius: 3px;
-    padding: 8px;
+    padding-left: 16px;
 }
 button{  
 width: 300px;  
