@@ -4,32 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>signup</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel ="stylesheet" href="signup.css">
+    <title>Document</title>
 </head>
-<body>
-    <h1>Sign Up</h1>
-        <div class="signup">
-        <form id="signup"action="signup.php" method="POST" data-netlify="true">
-          <p>Please fill in this form to create an account.</p>
-          <hr>
-        <label for="Username"><b>
-        </b>
-        </label>
-        <input type="text" placeholder="name" id="names" name="Name" required>
-        <br>
-          <label for="email"><b>Email</b>
-            <br>
-          </label>
-          <input type="text" placeholder="Enter Email" id="mailing" name="email" required>
-          <br><br>
-          <label for="psw"><b>Password</b>
-            <br>
-          </label>
-          <input type="password" placeholder="Enter Password" id="passwd" name="psw" required>
-          <br><br>
-            <button type="submit" class="signupbtn">Sign Up</button>
-      </form>
-    </div>
+<body>    
+    <div class="signup"> 
+    <h1>SignUp  Form</h1>       
+    <form>   
+        <label>User name</label>    
+        <input type="text" name="Uname" id="yourname" placeholder="name">    
+        <br> 
+        <label>Email</label>
+        </br> 
+        <input type="Email" name="Email" id="mailing" placeholder="Email">
+        <label>Password </label>
+        <input type="Password" name="Pass" id="Passwd" placeholder="password">  
+        <input type="button" name="sign" id="sign" value="sign in"><br>       
+        <br></b>
+        <p>Already have an account? <a href="login.html">Log in</a></p>
+    </form>     
+</div>    
 </body>
 </html>

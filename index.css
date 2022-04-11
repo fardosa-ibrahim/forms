@@ -1,114 +1,64 @@
+
 body  
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#6abadeba;  
+    background-color:#61423C;
     font-family: 'Arial';  
 }  
 .login{  
-        width: 382px;  
-        overflow: hidden;  
-        margin: auto;  
-        margin: 20 0 0 450px;  
-        padding: 80px;  
-        background: #03a383;  
+        width: 300px;     
+        margin: 8% 0 10% 32%; 
+        padding: 40px;  
+        background: #E05F48;  
         border-radius: 15px ;  
-          
-}  
-h2{  
-    text-align: center;  
-    color: #277582;  
-    padding: 8px;  
+            
+} h1{
+  
+    text-align:center ;  
+    color: white;  
+    padding: 20px;  
 }  
 label{  
     color: #08ffd1;  
     font-size: 17px;  
 }  
-#names{  
+#yourname{  
     width: 300px;  
     height: 30px;  
     border: none;  
     border-radius: 3px;  
-    padding-left: 16px;  
-    margin: 8px;
-}  
+    padding-left: 8px;
+    margin-bottom: 5%;  
+
+}
+
 #Passwd{  
     width: 300px;  
     height: 30px;  
     border: none;  
     border-radius: 3px;  
-    padding-left: 16px;  
-    margin:8px ;
+    padding-left: 8px;  
       
 }  
-#logging{  
-    width: 300px;  
+#Logging{  
+    width: 150px;  
     height: 30px;  
     border: none;  
-    border-radius: 17px;  
-    padding-left: 7px;  
-    color: blue;  
+    border-radius: 3px;  
+    padding-left: 3px;  
+    color: black;  
+    margin: 10% 0 20% 0;
+    
   
   
-}
-a{  
-    float: right;  
-    background-color: grey;  
-}
-.signup{  
-    width: 382px;  
-    overflow: hidden;  
-    margin: auto;  
-    margin: 20 0 0 450px;  
-    padding: 80px;  
-    background: #03a383;  
-    border-radius: 15px ;  
-      
 }  
-h1{  
-text-align: center;  
-color: #277582;  
-padding: 8px;  
+span{  
+    color: white;  
+    font-size: 17px;  
 }  
-label{  
-color: #08ffd1;  
-font-size: 17px; 
-text-align: center;
-}  
-#names{  
-width: 300px;  
-height: 30px;  
-border: none;  
-border-radius: 3px;  
-margin-left: 50px;
-padding-left: 16px;
-padding: 8px;
-}  
-#Passwd{  
-width: 300px;  
-height: 30px;  
-border: none;  
-border-radius: 3px;  
-margin-left: 50px; 
-padding-left: 16px;
-  padding: 8px;
-} 
 
-#mailing{
-    width: 300px;
-    height: 30px;
-    border: none;
-    border-radius: 3px;
-    padding-left: 16px;
-}
-button{  
-width: 300px;  
-height: 30px;  
-border: none;  
-border-radius: 17px;  
-padding-left: 7px;  
-color: blue;  
-float:right;
+p{
+    margin-top: -15%;
 
 }
-

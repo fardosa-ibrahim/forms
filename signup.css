@@ -1,0 +1,76 @@
+
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+        background:#61423C;  
+     
+    font-family: 'Arial';  
+}  
+.signup{  
+        width: 300px;  
+        overflow: hidden;   
+        margin: 8% 0% 10% 32%;  
+        padding: 40px;  
+        background: #E05F48;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#yourname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px; 
+    margin-bottom: 5%; 
+
+}
+#mailing{width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+    margin-bottom: 5%;
+
+
+}  
+#Passwd{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+    margin-bottom: 5%;
+    
+      
+}  
+#sign{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: black;  
+  
+  
+}  
+span{  
+    color: green;  
+    font-size: 17px;  
+}  
+a{    
+padding-top: 70px;
+color:purple;
+   }
+ #sign{
+      margin-top: 20px;
+   }
